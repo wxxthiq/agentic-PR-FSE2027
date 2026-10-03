@@ -13,13 +13,12 @@ This repository provides all source code, deterministic taxonomies, exact matchi
 │   ├── __init__.py            # Python package initialization
 │   └── pipeline_utils.py      # Core classification, matching, and caching utilities
 ├── notebooks/
-│   ├── rq1.ipynb   # RQ1: Prevalence, chore analysis, and attrition audits
-│   ├── rq2.ipynb      # RQ2: 1:1 matching, AFT survival models, and latency
-│   └── rq3.ipynb  # RQ3: Bot filtering, McNemar tests, and governance logit
+│   ├── rq1.ipynb              # RQ1: Prevalence, chore analysis, and attrition audits
+│   ├── rq2.ipynb              # RQ2: 1:1 matching, AFT survival models, and latency
+│   └── rq3.ipynb              # RQ3: Bot filtering, McNemar tests, and governance logit
 └── data/
     └── experimental/          # Local Parquet cache (auto-populated on first run)
-
-
+```
 ---
 
 ## 2. Prerequisites & Quickstart
@@ -67,4 +66,4 @@ Execute the notebooks sequentially in `notebooks/`:
 * **Double-Anonymous Review:** This package contains zero author names, emails, institutional affiliations, or personal repository paths.
 * **License:** Source code is distributed under the **MIT License**; curated data definitions under **CC-BY 4.0**.
 * **Archival:** Upon formal acceptance, this package will be permanently archived on Zenodo with a persistent Digital Object Identifier (DOI).
-```
+
