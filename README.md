@@ -5,6 +5,7 @@ This repository provides all source code, deterministic taxonomies, exact matchi
 
 ## 1. Repository Structure
 
+```text
 .
 ├── README.md                  # Replication instructions
 ├── requirements.txt           # Pinned Python dependencies
