@@ -1,4 +1,4 @@
-# Replication Package for empirical submission to **ACM FSE 2027**.
+# Replication Package: Co-Modifying Application Code and Deployment Infrastructure: A Causal Study of AI Agent Pull Requests
 
 This repository provides all source code, deterministic taxonomies, exact matching pipelines, and Jupyter notebooks to reproduce all findings across Research Questions 1–3.
 
