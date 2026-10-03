@@ -46,11 +46,6 @@ Datasets (`hao-li/AIDev-7.6M` and `AISE-TUDelft/MOSAIC-agentic-3m`) are **stream
 
 ## 4. Execution & Artifact Mapping
 
-Launch Jupyter:
-```bash
-jupyter lab
-```
-
 Execute the notebooks sequentially in `notebooks/`:
 
 | Notebook | Focus | Paper Outputs Generated |
